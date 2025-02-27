@@ -19,7 +19,6 @@ The branch *fuzzing-broker* very likely has a running code base for a connection
 
 [**License**](#license)
 
-[**Maintainer**](#maintainer)
 
 ## Requirements
 - Ubuntu 22.04 (Desktop version)
