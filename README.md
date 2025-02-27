@@ -1,7 +1,5 @@
 # ROS2 Fuzzing Broker
 
-The ROS2 Fuzzing Broker implements parts of the architecture explained in the Master's Thesis **A Modular Sensor Data Fuzzing Architecture– Fuzzing of an Autonomous Driving System with Multiple Sensors** at TUM by Lorenz Teply in 2024.
-
 This README should briefly explain how to start the current implementation. It does not explain further details of the architecture and the deployment of required components like the simulator and ADS. Furthermore, it does not explain anything regrading ros. Knowledge is very likely to be required.
 
 The carla-ros-bridge is not part of the Fuzzing Broker. It contains modifications for a better usage. It was depreciated earlier in the developement process and only has limited comments. It can be found in the *carla-ros-bridge* branch.
