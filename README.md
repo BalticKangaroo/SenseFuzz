@@ -1,10 +1,8 @@
 # ROS2 Fuzzing Broker
 
-This README should briefly explain how to start the current implementation. It does not explain further details of the architecture and the deployment of required components like the simulator and ADS. Furthermore, it does not explain anything regrading ros. Knowledge is very likely to be required.
+This README should briefly explain how to start the current implementation. 
 
 The carla-ros-bridge is not part of the Fuzzing Broker. It contains modifications for a better usage. It was depreciated earlier in the developement process and only has limited comments. It can be found in the *carla-ros-bridge* branch.
-
-The Notes directory is a selection of the notes created during the developement and creation of the thesis and code. It can be found in the *Notes* branch.
 
 The branch *AWSIM_fuzzing-broker* has the status of the code when the thesis was handed in.
 
