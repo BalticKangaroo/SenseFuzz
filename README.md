@@ -89,7 +89,4 @@ ROS2 Fuzzing Broker is distributed in the hope that it will be useful, but WITHO
 
 You should have received a copy of the GNU General Public License along with Foobar. If not, see <https://www.gnu.org/licenses/>.
 
-## Maintainer
-Lorenz Teply
 
-lorenz@lteply.com
