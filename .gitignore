@@ -1,0 +1,24 @@
+.obsidian
+.vscode
+carla-ros-bridge/build
+carla-ros-bridge/install
+carla-ros-bridge/log
+carla-ros-bridge/build/**
+carla-ros-bridge/install/**
+carla-ros-bridge/log/**
+__pycache__
+
+## from ros-bridge repo
+*.pyc
+build.gradle
+/CMakeLists.txt
+.catkin_workspace
+
+# IDE
+.vscode
+.idea
+
+#colcon
+build/
+install/
+log/
